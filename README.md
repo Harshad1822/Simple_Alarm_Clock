@@ -4,6 +4,9 @@ A simple alarm clock application built with Python using the `tkinter` library f
 
 ---
 
+## Objectives:
+The primary objective of this project is to develop a user-friendly Alarm Clock Application with a graphical interface and robust functionalities. The application achieves the following:
+
 ## Features
 - **Set Alarm**: Specify a time in the format `HH:MM` to set an alarm.
 - **Stop Alarm**: Stop the alarm sound when it rings.
